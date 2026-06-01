@@ -4,6 +4,9 @@ started: 2026-06-01
 owner: Abhishek Bhatta
 current_focus: "Validate macOS media metadata access and build the first floating island prototype."
 next_milestone: "Working music-first island prototype with compact and expanded states."
+implementation:
+  repository: "git@github.com:aviisekh/zen-island.git"
+  local_path: "/Users/aviisekh/Development/projects/zen-island"
 compliance:
   framework_documents:
     MISSION.md: true

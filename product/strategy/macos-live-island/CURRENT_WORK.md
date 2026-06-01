@@ -4,6 +4,11 @@
 
 Build the first usable prototype of a native macOS live activity island inspired by Alcove, with a cheaper, cleaner, music-first product direction.
 
+Implementation repo:
+
+- `git@github.com:aviisekh/zen-island.git`
+- `/Users/aviisekh/Development/projects/zen-island`
+
 ## This Week
 
 - Confirm target macOS version and minimum hardware expectations.
@@ -34,3 +39,4 @@ Build the first usable prototype of a native macOS live activity island inspired
 - Created Mission, Vision, PRD, Design, Architecture, Implementation Plan, Status, and Competitive Positioning documents.
 - Positioned Alcove as the primary inspiration and quality bar.
 - Defined the initial wedge: cheaper, cleaner, music-first, rich animation, low-resource, extension-ready.
+- Created and pushed the initial native macOS prototype scaffold.
